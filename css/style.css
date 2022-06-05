@@ -236,6 +236,23 @@ html{
 }
 /* end about section */
 
+/* locatin */
+#loca .mytext{
+    font-size: 5rem;
+    margin-left: 200px;
+}
+.ruka{
+    max-width: 1200px;
+    width: 100%;
+    height: 290px;
+    margin: 0 auto;
+    justify-content: space-between;
+    display: flex;
+    margin-top: 40px;
+}
+/* end location */
+
+
 /* service section */
 .services{
     flex-direction: column;
