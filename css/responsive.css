@@ -1,5 +1,5 @@
 /* rpx){esponsivi */
-@media (min-width: 768){ 
+@media (min-width: 768px){ 
     .hireme{
         align-items: right;
     }
@@ -60,17 +60,6 @@
     }
     .services .services-info .service{
         margin: 0;
-    }
-}
-@media (min-width: 320px){
-    .mytext{
-        margin-right: 30px;
-    }
-    .ruka {
-        max-width: 520px;
-        width: 100%;
-        justify-content: space-between;
-
     }
 }
 /* end responsive  */
